@@ -4,7 +4,7 @@ This is my home page! My name is Cesar Carrillo and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ccarri.
+My GitHub page is (http://github.com/ccarri).
 
 ### CPSC 120
 
